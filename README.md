@@ -1,9 +1,11 @@
 # Incident Report Management System
 
 A secure, full-stack desktop application for logging, tracking, and resolving student incident/violation cases, built with C# (.NET), Windows Forms, and Microsoft SQL Server.
+<div align="center"> 
 
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login.PNG)
 
+</div>
 ## Overview
 
 Incident Report Management System streamlines the full incident lifecycle — from student violation intake to case resolution — for institutions that need structured, auditable disciplinary record-keeping. It replaces manual/paper-based tracking with a centralized, role-based desktop tool.
@@ -20,11 +22,11 @@ Incident Report Management System streamlines the full incident lifecycle — fr
 
 | Login | Case Management |
 |---|---|
-| ![Login](screenshots/login.png) | ![Case Management](screenshots/case-management.png) |
+| ![Login](screenshots/login.PNG) | ![Case Management](screenshots/case-management.PNG) |
 
 | Add New Case | Update Account |
 |---|---|
-| ![Add New Case](screenshots/add-case.png) | ![Update Account](screenshots/update-account.png) |
+| ![Add New Case](screenshots/add-case.PNG) | ![Update Account](screenshots/update-account.PNG) |
 
 ## Tech Stack
 
@@ -75,7 +77,3 @@ IncidentReportManagement/
 ## License
 
 This project is available for educational and portfolio reference purposes.
-
----
-
-Built by [EdjayDev](https://github.com/EdjayDev)
